@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "WelcomeKotlin"
-include(":app")
+include(":kotlin syntax")
+include(":objectorientedprogramming")
