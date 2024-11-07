@@ -9,10 +9,10 @@ fun main() {
     //2. Kotlin Variables
     // var variableName = value (Integer)
     //val variableName = value (String)
-    val fullname = "David Anthony-Nted"
+    val fullName = "David Anthony-Nted"
     val age = 21
     val currentYear : Int = 2003
-    println("$fullname is $age in $currentYear")
+    println("$fullName is $age in $currentYear")
 
     //3. Primitive Integer: Byte
     val number1 : Byte = 91
